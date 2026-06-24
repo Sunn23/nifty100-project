@@ -1,0 +1,6 @@
+table,rows_before,rows_after,duplicates_removed,timestamp
+profitandloss,1276,1263,13,2026-06-24 17:08:24
+balancesheet,1312,1225,87,2026-06-24 17:08:24
+cashflow,1187,1152,35,2026-06-24 17:08:24
+market_cap,552,552,0,2026-06-24 17:08:24
+financial_ratios,1184,1065,119,2026-06-24 17:08:24
